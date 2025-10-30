@@ -1,0 +1,7 @@
+# SSL certificates (nicht ins Repo)
+ssl/*.pem
+ssl/*.key
+ssl/*.crt
+
+# Nginx logs
+logs/*.log
